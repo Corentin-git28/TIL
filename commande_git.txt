@@ -1,0 +1,26 @@
+Commandes GIT
+
+https://git-school.github.io/visualizing-git/
+
+git init 
+
+git status
+
+git add + nom du fichier + extention
+
+git checkout HEAD~
+
+git commit -m (commentaire commit)
+
+gitk 
+
+git log
+
+git diff + nom du fichier
+
+git branch 
+git branch -ad
+
+git remote -v
+
+
